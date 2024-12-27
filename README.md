@@ -53,7 +53,7 @@
 - 데이터: 한국 이미지(음식) 데이터셋 (150종)(https://www.aihub.or.kr/) 및 사용자 입력 데이터
 
 -------
-![1](https://github.com/u![6](https://github.com/user-attachments/assets/972f13ac-b2c6-4021-a3c6-93da91e70a51)
+![1](https://github.com/user-attachments/assets/deab7727-7be8-4c96-a590-daa84a2f90c7)
 ![2](https://github.com/user-attachments/assets/0d324fcb-7e6d-4cd9-b760-bb5295d92317)
 ![3](https://github.com/user-attachments/assets/17550c5a-03cb-419e-84b4-e9b7b214d509)
 ![4](https://github.com/user-attachments/assets/f680bd5a-b145-448e-83de-52ff9c2917cf)
