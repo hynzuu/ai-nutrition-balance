@@ -50,5 +50,21 @@
 
 - 프레임워크 및 라이브러리: YOLOv5, OpenCV, GPT API
 
-- 데이터: 한국 음식 데이터셋 (150종) 및 사용자 입력 데이터
+- 데이터: 한국 이미지(음식) 데이터셋 (150종)(https://www.aihub.or.kr/) 및 사용자 입력 데이터
 
+-------
+![1](https://github.com/u![6](https://github.com/user-attachments/assets/972f13ac-b2c6-4021-a3c6-93da91e70a51)
+![2](https://github.com/user-attachments/assets/0d324fcb-7e6d-4cd9-b760-bb5295d92317)
+![3](https://github.com/user-attachments/assets/17550c5a-03cb-419e-84b4-e9b7b214d509)
+![4](https://github.com/user-attachments/assets/f680bd5a-b145-448e-83de-52ff9c2917cf)
+![5](https://github.com/user-attachments/assets/7d0ef326-152e-4817-80f2-043936709114)
+![6](https://github.com/user-attachments/assets/6372b2b8-54f1-4cf6-832d-133782893f35)
+![7](https://github.com/user-attachments/assets/e242e509-bec8-488f-b8f5-40b27c767a48)
+![8](https://github.com/user-attachments/assets/71fcddd9-189a-4111-94e1-53df5a569297)
+![9](https://github.com/user-attachments/assets/6928cf8a-3490-4636-812d-b149241328c8)
+![10](https://github.com/user-attachments/assets/a54fc06f-ae1c-48da-a617-60c2dee1a931)
+![11](https://github.com/user-attachments/assets/d878c095-bcf1-4a85-8791-ab4bd58d6754)
+![12](https://github.com/user-attachments/assets/ee0d67ee-6b3e-481f-9dca-2368f6aaad98)
+![13](https://github.com/user-attachments/assets/a3ee8f59-5ca9-4731-88f0-379532c0bd80)
+![14](https://github.com/user-attachments/assets/d86d2fed-59ff-4736-8e4c-8e2c7200f211)
+![15](https://github.com/user-attachments/assets/fe79e52d-40ea-468d-a8e0-7af0a5325b5b)
