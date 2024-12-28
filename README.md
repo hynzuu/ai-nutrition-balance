@@ -54,9 +54,8 @@
 
 -------
 
-## 🔗 YOLOv5 가중치 다운로드
-가중치 파일은 [YOLOv5 공식 저장소](https://github.com/ultralytics/yolov5)
-- [Custom YOLOv5 weights](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+#### 🔗 YOLOv5 가중치 다운로드
+- model : [YOLOv5 공식 저장소](https://github.com/ultralytics/yolov5)
 
 ------
 ![1](https://github.com/user-attachments/assets/deab7727-7be8-4c96-a590-daa84a2f90c7)
