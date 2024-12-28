@@ -11,7 +11,7 @@
 
 - 수상 내역: 장려상
 
-- 프로젝트 기간: [2024.11.01 – 2024.11.15]
+- 프로젝트 기간: 2024.11.01 – 2024.11.15
 
 - 팀 구성: 2명(이현주, 이태인)
 
@@ -53,6 +53,12 @@
 - 데이터: 한국 이미지(음식) 데이터셋 (150종)(https://www.aihub.or.kr/) 및 사용자 입력 데이터
 
 -------
+
+## 🔗 YOLOv5 가중치 다운로드
+가중치 파일은 [YOLOv5 공식 저장소](https://github.com/ultralytics/yolov5)
+- [Custom YOLOv5 weights](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+
+------
 ![1](https://github.com/user-attachments/assets/deab7727-7be8-4c96-a590-daa84a2f90c7)
 ![2](https://github.com/user-attachments/assets/0d324fcb-7e6d-4cd9-b760-bb5295d92317)
 ![3](https://github.com/user-attachments/assets/17550c5a-03cb-419e-84b4-e9b7b214d509)
